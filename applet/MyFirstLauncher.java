@@ -9,5 +9,6 @@ public class MyFirstLauncher {
         
         f.setSize(300, 200);
         f.setVisible(true);
+        
     }
 }
